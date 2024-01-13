@@ -1,5 +1,5 @@
 # Hello, world!
 
-I study in Netology
+учебный репозиторий
 
-12.01.2024
+## new title
